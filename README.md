@@ -15,17 +15,17 @@ Keyboard shortcuts for easy operation<br>
 HTML5: Provides the structure and base elements for the user interface<br>
 CSS3:
 
-Custom properties (CSS variables) for theme
-Flexbox layout for responsive design
-Transitions and animations for a great user experience
+Custom properties (CSS variables) for theme<br>
+Flexbox layout for responsive design<br>
+Transitions and animations for a great user experience<br>
 Media queries for device adaptability <br>
 
 
 JavaScript:
 
-DOM manipulation for dynamic updates
-Event listeners for user interaction
-Timing functions (setInterval) for precise time tracking
+DOM manipulation for dynamic updates<br>
+Event listeners for user interaction<br>
+Timing functions (setInterval) for precise time tracking<br>
 Date objects for time calculations <br>
 # Live Demo
-You can try the live demo here .
+You can try the live demo here https://akanksha-2104.github.io/Stop-watch-Application/.
